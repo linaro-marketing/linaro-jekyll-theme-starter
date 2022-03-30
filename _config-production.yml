@@ -1,0 +1,13 @@
+# In order to build for staging run:
+# $ jekyll build --config _config.yml, _config-production.yml
+#
+# URL of static site
+url: "https://linaro-jekyll-theme.linaro.org"
+# Destination folder
+destination: production.linaro-jekyll-theme.linaro.org
+# Production boolean used in layouts / includes
+production: true
+# Google Analytics
+google_analytics:
+  enabled: true
+  code: xxxxxxxxxxx

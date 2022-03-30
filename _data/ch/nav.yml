@@ -1,0 +1,15 @@
+universal_nav: true
+search:
+  enabled: false
+  label: Linaro
+expand_breakpoint: xl
+brand:
+  path: /assets/images/Linaro-Logo.svg
+  alt: Linaro logo
+pages:
+  - title: About
+    url: /about/
+  - title: Blog
+    url: /blog/
+  - title: Contact
+    url: /contact/
